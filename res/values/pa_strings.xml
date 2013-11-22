@@ -16,6 +16,7 @@
    limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!--Volume buttons category-->
     <string name="volume_buttons_category">Volume buttons</string>
 
@@ -130,4 +131,11 @@
     <!-- Link volumes -->
     <string name="link_volume_ringtones">Link ringtone &amp; notifications volumes</string>
     <string name="volume_ring_only_description">Ringtone</string>
+
+    <!--Battery Icon selection-->
+    <string name="battery_status_icon_title">Status icon</string>
+    <string name="battery_bar">Battery bar</string>
+    <string name="battery_bar_percent">Battery bar &amp; percent</string>
+    <string name="battery_circle">Battery circle</string>
+    <string name="battery_circle_percent">Battery circle &amp; percent</string>
 </resources>
